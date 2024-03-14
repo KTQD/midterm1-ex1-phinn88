@@ -1,4 +1,3 @@
-// File: MP3.java
 public class MP3 extends Item {
     private int duration;
 
